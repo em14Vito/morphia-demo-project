@@ -1,4 +1,4 @@
-# demo for showing morphia scan package utils
+# demo for showing [morphia](https://github.com/MorphiaOrg/morphia) issue#1314 
 
 ## way 1:
 1. import project into intelliJ IDEA and run it . you will see that  
